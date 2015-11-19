@@ -1,0 +1,31 @@
+{
+    "eqnull": true,
+    "nonew": true,
+    "curly": true,
+    "noarg": true,
+    "indent": 4,
+    "trailing": true,
+    "forin": true,
+    "noempty": true,
+    "quotmark": "single",
+    "node": true,
+    "maxstatements": 100,
+    "maxerr": 1000,
+    "eqeqeq": true,
+    "strict": true,
+    "undef": true,
+    "sub": true,
+    "newcap": false,
+    "immed": true,
+
+    "browser": true,
+    "worker": true,
+    "camelcase": true,
+    "maxlen": 130,
+    "freeze": true,
+    "laxbreak": true,
+
+    "globals": {
+        "require": true
+    }
+}
