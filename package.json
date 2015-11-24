@@ -1,7 +1,7 @@
 {
   "name": "grunt-ng-import-source",
   "description": "Processes HTML and includes all referenced Angular modules in respect to root module",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "http://github.com/wingedfox/grunt-ng-import-source",
   "author": {
     "name": "Ilya WingedFox Lebedev",
