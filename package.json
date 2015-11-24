@@ -31,10 +31,34 @@
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.11.0"
   },
-  "peerDependencies": {},
+  "peerDependencies": {
+    "esprima": "~2.7.0"
+  },
   "keywords": [
     "gruntplugin",
     "angular",
     "import"
-  ]
+  ],
+  "gitHead": "520f6421e4f0b959a7e051ce0b01c801993bac0e",
+  "_id": "grunt-ng-import-source@0.1.2",
+  "_shasum": "51739ce3342e5bb4fa44fc7609f5d354ecab4231",
+  "_from": "grunt-ng-import-source@>=0.1.0 <0.2.0",
+  "_npmVersion": "3.3.6",
+  "_nodeVersion": "5.0.0",
+  "_npmUser": {
+    "name": "wingedfox",
+    "email": "ilya@lebedev.net"
+  },
+  "dist": {
+    "shasum": "51739ce3342e5bb4fa44fc7609f5d354ecab4231",
+    "tarball": "http://registry.npmjs.org/grunt-ng-import-source/-/grunt-ng-import-source-0.1.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "wingedfox",
+      "email": "ilya@lebedev.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/grunt-ng-import-source/-/grunt-ng-import-source-0.1.2.tgz"
 }
