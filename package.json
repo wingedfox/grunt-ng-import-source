@@ -23,6 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "esprima": "~2.7.0",
     "esprima-ast-utils": "~0.0.6",
     "htmlparser2": "~3.8.3",
     "ng-annotate": "~1.0.0"
@@ -32,7 +33,6 @@
     "grunt-contrib-jshint": "^0.11.0"
   },
   "peerDependencies": {
-    "esprima": "~2.7.0"
   },
   "keywords": [
     "gruntplugin",
