@@ -1,18 +1,18 @@
 {
   "name": "grunt-ng-import-source",
   "description": "Processes HTML and includes all referenced Angular modules in respect to root module",
-  "version": "0.1.4",
-  "homepage": "http://github.com/wingedfox/grunt-ng-import-source",
+  "version": "0.1.5",
+  "homepage": "https://github.com/wingedfox/grunt-ng-import-source",
   "author": {
     "name": "Ilya WingedFox Lebedev",
     "email": "ilya@lebedev.net"
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/wingedfox/grunt-ng-import-source"
+    "url": "https://github.com/wingedfox/grunt-ng-import-source.git"
   },
   "bugs": {
-    "url": "http://github.com/wingedfox/grunt-ng-import-source/issues"
+    "url": "https://github.com/wingedfox/grunt-ng-import-source/issues"
   },
   "license": "(MIT)",
   "main": "tasks/grunt-ng-import-source.js",
