@@ -13,7 +13,7 @@ module.exports = function(grunt) {
 
     grunt.registerMultiTask('ng-import-source', function() {
         var log = 'Building includes for ' + this.files.length + ' file(s)...';
-        grunt.log.notverbose.write(log).or.writeln(log);
+        grunt.log.writeln(log);
 
         // getting to transform total file list to structure of
         this.files.forEach(function(file) {
@@ -31,6 +31,6 @@ module.exports = function(grunt) {
 
             grunt.file.write(file.dest, contents);
         });
-        grunt.log.notverbose.ok();
+        grunt.log.ok('DONE');
     });
 };
